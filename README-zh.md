@@ -59,4 +59,4 @@ Options:
 
 ## 演示
 
-![img][https://raw.githubusercontent.com/0Kee-Team/CatchMail/master/cmd.gif]
+![img](https://raw.githubusercontent.com/0Kee-Team/CatchMail/master/cmd.gif)
