@@ -57,4 +57,4 @@ output into file file
 
 ## Show
 
-![img][./cmd.gif]
+![img][https://raw.githubusercontent.com/0Kee-Team/CatchMail/master/cmd.gif]
