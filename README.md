@@ -54,3 +54,7 @@ xxxx@example.com
 output into file file
 
 ```
+
+## Show
+
+![img][./cmd.gif]

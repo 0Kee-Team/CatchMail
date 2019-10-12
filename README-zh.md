@@ -1,4 +1,5 @@
 ## 介绍
+
 CatchMail可用于收集邮箱地址.
 
 ```
@@ -29,6 +30,7 @@ xxxx@example.com
 xxxx@example.com                                      
 ```
 
+![img][./cmd.gif]
 
 
 ## 使用
@@ -55,3 +57,6 @@ Options:
                         output into file                          
 ```
 
+## 演示
+
+![img][./cmd.gif]
