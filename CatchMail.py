@@ -43,7 +43,7 @@ def formatOut(data):
 def getEmail(token):
     # payload = {'domain': options.domain,'limit': options.limit, 'start':options.start, 'token':token}
     payload = {'domain': options.domain,'limit': options.limit, 'token':token}
-    res = requests.post(url=__URL__,data= payload)
+    res = requests.post(url=__URL__,data= payload,verify=False)
     print(res)
     return res.json()
 
