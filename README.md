@@ -33,7 +33,7 @@ xxxx@example.com
 
 ## Usage
 
-1. Write Token to `0kee.token`.
+1. Write Token to `0kee.token`. （mail to g-0kee#360.cn to get Access token.）
 
 2. send query. 
 ```                                      
