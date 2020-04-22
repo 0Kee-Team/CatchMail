@@ -36,6 +36,7 @@ xxxx@example.com
 ## 使用
 
 1. 将Token写入`0kee.token`文件.
+（Token申请请发邮件至 g-0kee#360.cn ）
 
 2. 使用脚本
 ```
